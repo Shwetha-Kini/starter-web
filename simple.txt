@@ -2,3 +2,4 @@ Auto merge demo : abc
 Creating merge conflict : def
 Creating merge conflict : abc
 Rebase demo 
+Merge confict in rebase :abc
