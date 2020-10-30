@@ -1,1 +1,2 @@
 Auto merge demo : abc
+Creating merge conflict : def
